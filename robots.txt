@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oozahfohze.weirdmeetup.com/sitemap.xml
